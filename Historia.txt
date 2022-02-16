@@ -2,4 +2,6 @@ Esta es la historia de Rafael Malpica
 
 Rafa tiene 22
 
+Rafa esta a la mitad del curso de Git y Github
+
 mañana nos enfocaremos en su vida laboral
