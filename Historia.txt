@@ -14,4 +14,6 @@ Master 2
 
 Hola cherry-pick
 
+incluye ejemplos de 3 sistemas operativos
+
 mañana nos enfocaremos en su vida laboral
